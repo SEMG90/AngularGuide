@@ -33,3 +33,14 @@
 * package.json >> contain on packages we uses in project
 * README >> notes
 * tsconfig.json >> typescript configuration
+
+# Components Details
+* selector >> component name ('app-components name')
+* standalone >> 
+* imports >> route component name or other modules
+* templateUrl >> HTML components path
+* styleUrl >> CSS components path
+* export class component name
+
+# Components Generate
+* ng generate component component name
