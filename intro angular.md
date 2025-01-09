@@ -44,3 +44,4 @@
 
 # Components Generate
 * ng generate component component name
+* for %n in (components names)
