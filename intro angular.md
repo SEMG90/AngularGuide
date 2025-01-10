@@ -46,6 +46,14 @@
 * ng generate component component name
 * for %n in (components names)
 
+# Tools Download (Bootstrap - Fontawesome)
+* npm install bootstrap
+* npm install @fortawesome/fontawesome-free
+
+# Angular.json Configuration
+* any css files put in styles array
+* any js files put in scripts array
+
 # GitHub Errors
 * git config --global user.name "John Doe"
 * git config --global user.email "johndoe@email.com"
